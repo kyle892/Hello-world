@@ -1,2 +1,3 @@
 # Hello-world
-this is a description
+this is a repository
+I play instruments
